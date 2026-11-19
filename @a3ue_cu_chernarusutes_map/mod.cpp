@@ -1,0 +1,14 @@
+name = "[A3UE] RAS Map";
+picture = "a3ue_cu.paa";
+actionName = "Website";
+action = "https://github.com/jwoodruff40/A3UE-CU-ChernarusUtes-Map";
+description = "[A3UE] Chernarus and Utes";
+logo = "a3ue_cu.paa";
+logoOver = "a3ue_cu.paa";
+tooltip = "[A3UE] Chernarus and Utes";
+tooltipOwned = "[A3UE] Chernarus and Utes Owned";
+overview = "[A3UE] Chernarus and Utes";
+author = "Creep'nCrunch";
+overviewPicture = "a3ue_cu.paa";
+overviewText = "[A3UE] Chernarus and Utes";
+overviewFootnote = "<br /><br /><t color='#999999'>This content is under Arma Public License Share Alike (APL-SA) License.<br />Press <t /><t color='#19d3ff'>Left Shift + P<t /><t color='#999999'> to open the store page for more information.<t />";

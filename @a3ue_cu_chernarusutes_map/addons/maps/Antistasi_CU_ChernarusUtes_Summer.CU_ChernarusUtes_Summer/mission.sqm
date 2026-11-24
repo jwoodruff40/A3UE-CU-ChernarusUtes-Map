@@ -16,7 +16,7 @@ class EditorData
 	};
 	class LayerIndexProvider
 	{
-		nextID=48;
+		nextID=60;
 	};
 	class Camera
 	{
@@ -22613,16 +22613,16 @@ class Mission
 							dataType="Object";
 							class PositionInfo
 							{
-								position[]={6259.9243,13.678159,12468.759};
-								angles[]={0,0.16172606,0};
+								position[]={6259.9243,9.1283932,12468.759};
+								angles[]={6.2803383,0.16172606,0};
 							};
 							side="Empty";
+							flags=4;
 							class Attributes
 							{
 							};
 							id=707;
 							type="Land_Hlaska";
-							atlOffset=4.5497661;
 						};
 						class Item545
 						{

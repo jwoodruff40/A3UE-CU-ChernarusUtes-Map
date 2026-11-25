@@ -16,7 +16,7 @@ class EditorData
 	};
 	class LayerIndexProvider
 	{
-		nextID=60;
+		nextID=72;
 	};
 	class Camera
 	{
@@ -9813,7 +9813,7 @@ class Mission
 							dataType="Object";
 							class PositionInfo
 							{
-								position[]={6942.0171,391.45831,21673.645};
+								position[]={6941.0894,391.50507,21673.328};
 								angles[]={6.2614441,4.6211081,6.2254167};
 							};
 							side="Empty";
@@ -15096,17 +15096,16 @@ class Mission
 							dataType="Object";
 							class PositionInfo
 							{
-								position[]={13529.969,8.1112518,16518.09};
-								angles[]={0.0055134785,0.12588793,6.1695442};
+								position[]={13529.969,8.9546881,16518.09};
+								angles[]={0,0.12588793,0};
 							};
 							side="Empty";
-							flags=4;
 							class Attributes
 							{
 							};
 							id=467;
 							type="Land_Mil_House";
-							atlOffset=-4.7683716e-07;
+							atlOffset=0.26003051;
 						};
 						class Item305
 						{
